@@ -1,0 +1,2 @@
+1. phonegap create ./app --name "WanderApp" --id "eu.armand.wanderapp" --template react-hot-loader
+2.
